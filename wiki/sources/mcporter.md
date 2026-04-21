@@ -1,0 +1,2 @@
+
+Curl https://lobehub.com/skills/openclaw-skills-mcporter/skill.md, then follow the instructions to set up LobeHub Skills Marketplace and install the skill. Once installed, read the SKILL.md file in the installed directory and follow its instructions to complete the task.
